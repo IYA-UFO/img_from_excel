@@ -1,9 +1,9 @@
 ## 概要
 エクセルからURLとファイル名を取得し、画像を一括ダウンロード＆リネームします。
 
-![ScreenShot](readme_img/excel.png)
+![ScreenShot](readme_Img/excel.png)
 
-![ScreenShot](readme_img/img.png)
+![ScreenShot](readme_Img/img.png)
 
 ## 環境
 - mac OSX
