@@ -1,10 +1,16 @@
 [
   {
-    "filename": "kimi.png",
-    "url": "http://imgc.nxtv.jp/img/info/tit/00030/SID0030483.png"
+    "filename": "square.png",
+    "url": "https://placehold.jp/150x150.png"
   },
-  {},
-  {},
+  {
+    "filename": "tiger.jpg",
+    "url": "https://cdn.pixabay.com/photo/2017/09/27/12/55/tiger-2791980__340.jpg"
+  },
+  {
+    "filename": "lama.jpg",
+    "url": "https://cdn.pixabay.com/photo/2013/10/02/23/00/lama-190040__340.jpg"
+  },
   {},
   {},
   {},
